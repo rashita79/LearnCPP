@@ -2,6 +2,7 @@
 - [Stack](#stack)
 - [Infix to postfix conversion](#infix-to-postfix-conversion)
 - [Parenthesis Checker](#parenthesis-checker)
+- [Application of stack]
 
 ## STACK 
 
